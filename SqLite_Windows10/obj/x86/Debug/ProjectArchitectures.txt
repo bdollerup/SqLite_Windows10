@@ -1,0 +1,1 @@
+c:\users\onur\documents\visual studio 2015\Projects\SqLite_Windows10\SqLite_Windows10\SqLite_Windows10.csproj;x86
